@@ -1,0 +1,999 @@
+@media screen and (min-width:320px) and (max-width:768px){
+    .cover-undangan{
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+    .title_wedding p{
+        font-size: 36px;
+        color: white;
+    }
+
+    .wedding-of p{
+        font-size: 10px;
+    }
+
+    .nama_tamu p{
+        font-size: 18px;
+    }
+
+    .elemen_1{
+        background-position: center;
+        height: 100vh;
+    }
+
+    .leoVania p{
+        font-size: 60px;
+    }
+
+    .wedding-of p{
+        font-size: 18px;
+    }
+
+    .quote_text p{
+        font-size: 14px;
+    }
+
+    .quote_author p{
+        font-size: 20px;
+        font-weight: 500;
+        margin-top: 8px;
+    }
+
+    .the_beloved p{
+        font-size: 18px;
+        padding-top: 80px;
+    }
+
+    .groom_bride{
+        font-size: 40px;
+    }
+
+    .text1{
+        font-size: 55px;
+    }
+
+    .text1_bride{
+        font-size: 55px;
+    }
+
+    .groom_text{
+        width: 20vh;
+    }
+
+    .groom_photo{
+        width:70%;
+        background-position: 25% 75%;
+        height: 50vh;
+    }
+
+    .groom_photo .text2{
+        font-size: 50px;
+    }
+
+    .bride_text{
+        width: 20vh;
+    }
+
+    .bride_photo{
+        width:70%;
+        background-position: 75% 25%;
+        height: 50vh;
+    }
+
+    .bride_photo .text2{
+        font-size: 50px;
+    }
+
+    .text3{
+        font-size: 20px;
+    }
+
+    .text4{
+        font-size: 10px;
+    }
+
+    li span{
+        text-align: start;
+        margin-right:40px;
+    }
+
+    .social_media li {
+        font-size: 10px;
+    }
+
+    .quote_2 .quote_text2{
+        font-size: 10px;
+        padding-top: 30px;
+    }
+
+    .quote_author2 p{
+        font-size: 16px;
+        margin-top: 8px;
+    }
+
+    .wed-story > span:nth-child(1) {
+        font-size: 1.0em;
+    }
+
+    .wed-story > span:nth-child(2) {
+        margin-top: 1px;
+        font-size: 4.0em;
+    }
+
+    .wed-story > span:nth-child(3) {
+        font-size: 0.9em;
+    }
+
+    .gallery-text span:nth-child(1) {
+        font-size: 1.0em;
+    }
+
+    .gallery-text span:nth-child(2) {
+        margin-top: -10px;
+        font-size: 3.0em;
+        font-family: 'Allison', cursive;
+        text-shadow: 2px 2px 1px black;
+    }
+
+    .gallery-text span:nth-child(3) {
+        text-align:center;
+        font-size: 0.5em;
+    }
+
+    .gallery-text span:nth-child(4) {
+        font-size: 0.8em;
+        font-weight: bolder;
+    }
+
+    .gallery-item {
+        height: 300px;
+        font-size: 24px;
+        margin:0 12px;
+    }
+
+    .card_header{
+        background-position: center;
+        height: 28%;
+    }
+
+    .header_text{
+        font-size: 13px;
+    }
+
+    .wed_text p{  
+        font-size: 40px;
+    }
+
+    .quote_header p{ 
+        font-size: 10px;
+    }
+
+    .author_header p{
+        font-size: 13px;
+        padding-bottom: 30px;
+    }
+    
+    .card_body{
+        flex-direction: column;
+        margin-top: 5vh;
+    }
+
+    .text_pemberkatan h2{
+        font-size: 20px; 
+    }
+
+    .line{
+        width: 200px;
+    }
+
+    .tanggal p{
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+    .jam p{
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+    .place p {
+        margin-bottom: 0px;
+        font-size: 13px;
+    }
+
+    .place .alamat{
+        font-size: 13px;
+        text-align: start;
+        margin-left: 15px;
+    }
+
+    .button_group a{
+        padding: 5px 17px;
+        background-color: #B39D5A;
+        margin-bottom: 3px;
+        margin-top: 10px;
+        border: 0;
+        border-radius: 10px;
+        font-size: 13px;
+    }
+
+    .resepsi{
+        margin-top: 15vh;
+        
+    }
+
+    .text_resepsi h2{
+        font-size: 20px; 
+    }
+
+    .card-body{
+        margin: 0 5vh;
+    }
+
+    .header h1{
+        margin-top: 30px;
+        font-size: 30px;
+    }
+
+    .header p{
+        font-size: 12px;
+    }
+
+    .rsvp_makewish{
+        padding-bottom: 10vh;
+        padding-top: 10vh;
+    }
+
+    .form{
+        margin: 20px 30px;
+        text-align: start;
+    }
+
+    .form label{
+        font-size: 10px;
+    }
+
+    .form input{
+        font-size: 10px;
+    }
+
+    .form-check{
+        margin-bottom: 10px;
+    }
+
+    .form a{
+        padding: 5px 10px;
+        border-radius: 10px;
+        font-size: 15px;
+    }
+
+    .text_gift{
+        padding-top: 8vh;
+    }
+
+    .text_gift h2{
+        font-size: 30px;
+    }
+
+    .text_gift p{
+        font-size: 12px;
+        margin: 0 20px;
+    }
+
+    .card_gift_body img{
+        width: 120px;
+        margin-top: 12px;
+    }
+
+    .card_gift_body h2{
+        font-size: 12px;
+    }
+
+    .card_gift_body p{
+        font-size: 12px;
+    }
+
+    .button_gift{
+        margin: 0 50px;
+    }
+
+     button{
+        font-size: 12px;
+        padding: 4px 15px;
+    }
+
+    .button_confirm{
+        margin-top: 10px;
+        font-size: 10px;
+        padding-bottom: 8px;
+    }
+
+    .button_confirm i{
+        margin-right: 4px;
+    }
+
+    .card_gift_body{
+        background-color: white;
+        width: 30vh;
+        height: 45vh;
+        text-align: center;
+        border-radius: 10px;
+    }
+
+    .card_gift2{
+        padding-bottom: 8vh;
+    }
+
+    /* footer{
+        height: 40vh;
+    } */
+
+    .content_footer p{
+        font-size: 18px;
+    }
+
+    .content_footer h2{
+        font-family: 'Great Vibes', sans-serif;
+        font-size: 42px;
+    }
+}
+
+@media screen and (min-width:768px) and (max-width:1024px) {
+    .cover-undangan{
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
+    .title_wedding p{
+        font-size: 60px;
+        color: white;
+    }
+
+    .nama_tamu p{
+        font-size: 26px;
+    }
+
+    .elemen_1{
+        background-position: center;
+        height: 100vh;
+    }
+
+    .leoVania p{
+        font-size: 100px;
+    }
+
+    .wedding-of p{
+        font-size: 28px;
+    }
+
+    .quote_text p{
+        font-size: 14px;
+    }
+
+    .quote_author p{
+        font-size: 20px;
+        font-weight: 500;
+        margin-top: 8px;
+    }
+
+    .the_beloved p{
+        font-size: 18px;
+        padding-top: 80px;
+    }
+
+    .groom_bride{
+        font-size: 40px;
+    }
+
+    .text1{
+        font-size: 55px;
+    }
+
+    .text1_bride{
+        font-size: 55px;
+    }
+
+    .groom_text{
+        width: 35vh;
+    }
+
+    .groom_photo{
+        width:70%;
+        background-position: 25% 75%;
+    }
+
+    .groom_photo .text2{
+        font-size: 80px;
+    }
+
+    .bride_text{
+        width: 35vh;
+    }
+
+    .bride_photo{
+        width:70%;
+        background-position: 75% 25%;
+    }
+
+    .bride_photo .text2{
+        font-size: 80px;
+    }
+
+    .text3{
+        font-size: 30px;
+    }
+
+    .text4{
+        font-size: 15px;
+    }
+
+    li span{
+        text-align: start;
+        margin-right:40px;
+    }
+
+    .quote_2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .social_media li {
+        font-size: 20px;
+    }
+
+    .quote_2 .quote_text2{
+        font-size: 16px;
+        padding-top: 25px;
+    }
+
+    .quote_author2 p{
+        font-size: 20px;
+        margin-top: 8px;
+    }
+
+    .wed-story > span:nth-child(1) {
+        font-size: 1.5em;
+    }
+
+    .wed-story > span:nth-child(2) {
+        margin-top: 1px;
+        font-size: 5.0em;
+    }
+
+    .wed-story > span:nth-child(3) {
+        font-size: 0.9em;
+    }
+
+    .gallery-text span:nth-child(1) {
+        font-size: 1.5em;
+    }
+
+    .gallery-text span:nth-child(2) {
+        margin-top: -10px;
+        font-size: 4.0em;
+        font-family: 'Allison', cursive;
+        text-shadow: 2px 2px 1px black;
+    }
+
+    .gallery-text span:nth-child(3) {
+        text-align:center;
+        font-size: 1.em;
+    }
+
+    .gallery-text span:nth-child(4) {
+        font-size: 1.0em;
+        font-weight: bolder;
+    }
+
+    .card_wedding{
+        height: 80%;
+    }
+
+    .card_header{
+        background-position: center;
+        height: 28%;
+    }
+
+    .header_text{
+        font-size: 13px;
+    }
+
+    .wed_text p{  
+        font-size: 50px;
+    }
+
+    .quote_header p{ 
+        font-size: 15px;
+    }
+
+    .author_header p{
+        font-size: 17px;
+        padding-bottom: 30px;
+    }
+    
+    .card_body{
+        flex-direction: column;
+        margin-top: 5vh;
+    }
+
+    .text_pemberkatan h2{
+        font-size: 30px; 
+    }
+
+    .line{
+        width: 400px;
+    }
+
+    .tanggal p{
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+    .jam p{
+        margin-top: 10px;
+        font-size: 13px;
+    }
+
+    .place p {
+        margin-bottom: 0px;
+        font-size: 13px;
+    }
+
+    .place .alamat{
+        font-size: 13px;
+        text-align: start;
+        margin-left: 15px;
+    }
+
+    .button_group a{
+        padding: 5px 17px;
+        background-color: #B39D5A;
+        margin-bottom: 3px;
+        margin-top: 10px;
+        border: 0;
+        border-radius: 10px;
+        font-size: 13px;
+    }
+
+    .resepsi{
+        margin-top: 15vh;
+        
+    }
+
+    .text_resepsi h2{
+        font-size: 30px; 
+    }
+
+    .card-body{
+        margin: 0 5vh;
+    }
+
+    .header h1{
+        margin-top: 50px;
+        font-size: 50px;
+    }
+
+    .header p{
+        font-size: 12px;
+    }
+
+    .form{
+        margin: 30px 40px;
+        text-align: start;
+    }
+
+    .form label{
+        font-size: 16px;
+    }
+
+    .form input{
+        font-size: 16px;
+    }
+
+    .form-check{
+        margin-bottom: 18px;
+    }
+
+    .form a{
+        padding: 5px 10px;
+        border-radius: 10px;
+        font-size: 20px;
+    }
+
+    .text_gift{
+        padding-top: 10vh;
+    }
+
+    .text_gift h2{
+        font-size: 50px;
+    }
+
+    .text_gift p{
+        font-size: 18px;
+        margin: 0 20px;
+    }
+
+    .card_gift_body img{
+        width: 200px;
+        margin-top: 12px;
+    }
+
+    .card_gift_body h2{
+        font-size: 18px;
+    }
+
+    .card_gift_body p{
+        font-size: 18px;
+    }
+
+    .button_gift{
+        margin: 0 50px;
+    }
+
+     button{
+        font-size: 18px;
+        padding: 4px 15px;
+    }
+
+    .button_confirm{
+        margin-top: 10px;
+        font-size: 18px;
+    }
+
+    .button_confirm i{
+        margin-right: 4px;
+    }
+
+    .card_gift_body{
+        background-color: white;
+        width: 50vh;
+        height: 65vh;
+        text-align: center;
+        border-radius: 10px;
+    }
+
+    /* footer{
+        height: 40vh;
+    } */
+
+    .content_footer p{
+        font-size: 18px;
+    }
+
+    .content_footer h2{
+        font-family: 'Great Vibes', sans-serif;
+        font-size: 42px;
+    }
+}
+
+@media screen and (min-width:1024px) and (max-width:1100px) {
+    .title_wedding p{
+        font-size: 100px;
+        color: white;
+    }
+
+    .nama_tamu p{
+        font-size: xx-large;
+    }
+
+    .elemen_1{
+        background-position: center;
+    
+    }
+
+    .leoVania p{
+        font-size: 150px;
+    }
+
+    .wedding-of p{
+        font-size: 30px;
+    }
+
+    .quote_text p{
+        font-size: 22px;
+    }
+
+    .quote_author p{
+        font-size: 25px;
+        font-weight: 600;
+        margin-top: 8px;
+    }
+
+    .the_beloved p{
+        font-size: 22px;
+        padding-top: 150px;
+    }
+
+    .groom_bride{
+        font-size: 60px;
+    }
+
+    .text1{
+        font-size: 100px;
+    }
+
+    .text1_bride{
+        font-size: 100px;
+    }
+
+    .groom_text{
+        width: 52vh;
+    }
+
+    .groom_photo{
+        width:50%;
+        /* height: ; */
+        /* background-position: 25% 75%; */
+    }
+
+    .groom_photo .text2{
+        font-size: 100px;
+    }
+
+    .bride_text{
+        width: 35vh;
+    }
+
+    .bride_photo{
+        width:50%;
+        height: 100vh;  
+        background-position: 75% 25%;
+    }
+
+    .bride_photo .text2{
+        font-size: 100px;
+    }
+
+    .text3{
+        font-size: 40px;
+    }
+
+    .text4{
+        font-size: 20px;
+    }
+
+    li span{
+        text-align: start;
+        margin-right:40px;
+    }
+
+    .quote_2{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .social_media li {
+        font-size: 20px;
+    }
+
+    .quote_2 .quote_text2{
+        font-size: 18px;
+        padding-top: 25px;
+    }
+
+    .quote_author2 p{
+        font-size: 25px;
+        margin-top: 8px;
+    }
+
+    .wed-story > span:nth-child(1) {
+        font-size: 1.9em;
+    }
+
+    .wed-story > span:nth-child(2) {
+        margin-top: 1px;
+        font-size: 5.6em;
+    }
+
+    .wed-story > span:nth-child(3) {
+        font-size: 1.25em;
+    }
+
+    .gallery-text span:nth-child(1) {
+        font-size: 1.85em;
+    }
+
+    .gallery-text span:nth-child(2) {
+        margin-top: -10px;
+        font-size: 5.5em;
+        font-family: 'Allison', cursive;
+        text-shadow: 2px 2px 1px black;
+    }
+
+    .gallery-text span:nth-child(3) {
+        text-align:center;
+        font-size: 1.2em;
+    }
+
+    .gallery-text span:nth-child(4) {
+        font-size: 1.2em;
+        font-weight: bolder;
+    }
+
+    .card_wedding{
+        height: 95%;
+    }
+
+    .card_header{
+        background-position: center;
+        height: 42%;
+    }
+
+    .header_text{
+        font-size: 20px;
+    }
+
+    .wed_text p{  
+        font-size: 60px;
+    }
+
+    .quote_header p{ 
+        font-size: 20px;
+    }
+
+    .author_header p{
+        font-size: 20px;
+        padding-bottom: 30px;
+    }
+    
+    .card_body{
+        flex-direction: column;
+        margin-top: 5vh;
+    }
+
+    .text_pemberkatan h2{
+        font-size: 50px; 
+    }
+
+    .line{
+        width: 450px;
+    }
+
+    .tanggal p{
+        margin-top: 10px;
+        font-size: 17px;
+    }
+
+    .jam p{
+        margin-top: 10px;
+        font-size: 17px;
+    }
+
+    .place p {
+        margin-bottom: 0px;
+        font-size: 17px;
+    }
+
+    .place .alamat{
+        font-size: 17px;
+        text-align: start;
+        margin-left: 15px;
+    }
+
+    .button_group a{
+        padding: 5px 17px;
+        background-color: #B39D5A;
+        margin-bottom: 3px;
+        margin-top: 10px;
+        border: 0;
+        border-radius: 10px;
+        font-size: 20px;
+    }
+
+    .resepsi{
+        margin-top: 15vh;
+        
+    }
+
+    .text_resepsi h2{
+        font-size: 50px; 
+    }
+
+    .card-body{
+        margin: 0 5vh;
+    }
+
+    .header h1{
+        margin-top: 70px;
+        font-size: 70px;
+    }
+
+    .header p{
+        font-size: 20px;
+    }
+
+    .form{
+        margin: 80px 70px;
+        text-align: start;
+    }
+
+    .form label{
+        font-size: 22px;
+    }
+
+    .form input{
+        font-size: 22px;
+    }
+
+    .form-check{
+        margin-bottom: 22px;
+        margin-left: 18px;
+        margin-top: 12px;
+    }
+
+    .form a{
+        padding: 5px 10px;
+        border-radius: 10px;
+        font-size: 25px;
+    }
+
+    .text_gift{
+        padding-top: 180px;
+    }
+
+    .text_gift h2{
+        font-size: 70px;
+    }
+
+    .text_gift p{
+        font-size: 20px;
+    }
+
+    .card_gift_body img{
+        width: 290px;
+        height: auto;
+        margin-top: 12px;
+    }
+
+    .card_gift_body h2{
+        font-size: 26px;
+    }
+
+    .card_gift_body p{
+        font-size: 26px;
+    }
+
+    .button_gift{
+       margin: 0 120px;
+    }
+
+     button{
+        font-size: 24px;
+        padding: 4px 15px;
+    }
+
+    .button_confirm{
+        margin-top: 10px;
+        font-size: 24px;
+    }
+
+    .button_confirm i{
+        margin-right: 4px;
+    }
+
+    .card_gift_body{
+        background-color: white;
+        width: 50vh;
+        height: 65vh;
+        text-align: center;
+        border-radius: 10px;
+    }
+
+    /* footer{
+        height: 60vh;
+    } */
+
+    .content_footer p{
+        font-size: 24px;
+    }
+
+    .content_footer h2{
+        font-size: 72px;
+    }
+
+    
+}
