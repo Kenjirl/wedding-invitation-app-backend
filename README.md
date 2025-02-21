@@ -13,6 +13,8 @@ The app provides the following features:
 - Enables the admin (the bride) to track the number of invitations sent and responses received.
 
 ## Admin Login Page
+The account for admins are made using seeder beforehand. 
+
 <img style="width: 80%; aspect-ratio: 16/9; object-fit: cover;" 
     src="https://github.com/user-attachments/assets/6dcc2b4c-6cee-480f-84be-ba12fdd9df02" 
     alt="Screenshot Admin Login Page"></img>
